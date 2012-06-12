@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animated GIF Live Wallpaper</string>
+    
+    <string name="prefs_key_ColorBg">key_Color_BG</string>
+    <string name="prefs_title_ColorBg">Background Color</string>
+    <string name="label_bg_color">Background Color:</string>
+    
+    <string name="prefs_key_FrameRate">key_FrameRate</string>
+    <string name="prefs_title_FrameRate">Speed</string>
+	<string name="label_frame_rate">Speed:</string>
+    
+    <string name="prefs_key_GifImage">key_GifImage</string>
+    <string name="prefs_title_GifImage">Image</string>
+    <string name="label_image">Select a GIF image…</string>
+    
+    <string name="prefs_key_GifScaling">key_GifScaling</string>
+    <string name="prefs_title_GifScaling">Scaling</string>
+    <string name="label_scaling">Scaling:</string>
+    
+    <string name="fm_ok">OK</string>
+    <string name="fm_cancel">Cancel</string>
+    <string name="fm_up_label">Up</string>
+    <string name="fm_go_label">Go</string>
+    <string name="fm_title">Select image…</string>
+    
+</resources>
